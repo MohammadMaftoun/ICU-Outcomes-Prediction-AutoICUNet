@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-Hybrid AI Framework for ICU Outcomes Prediction using Autoencoders, CNNs, Residual Learning, SE Modules, and Self-Attention.
+Hybrid AI Framework for ICU Outcomes Prediction.
 </p>
 
 ---
@@ -16,10 +16,14 @@ Hybrid AI Framework for ICU Outcomes Prediction using Autoencoders, CNNs, Residu
 ## 🚀 Highlights
 
 ✅ SMOTE + CTGAN + Undersampling for imbalance handling
+
 ✅ Autoencoder-based feature compression
+
 ✅ Grid Search + Random Search + Bayesian Optimization
+
 ✅ Novel Hybrid Deep Learning Architecture
-✅ State-of-the-art performance on real ICU datasets
+
+✅ State-of-the-art performance on real ICU dataset
 
 ---
 
@@ -81,7 +85,7 @@ AutoICU-Net/
 ## ▶️ Usage
 
 ```bash
-git clone https://github.com/your-username/AutoICU-Net.git
+git clone https://github.com/MohammadMaftoun/ICU-Outcomes-Prediction-AutoICUNet.git
 cd AutoICU-Net
 pip install -r requirements.txt
 ```
