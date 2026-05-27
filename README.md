@@ -38,11 +38,11 @@ SMOTE / CTGAN
      ↓
 Autoencoder
      ↓
-CNN + Residual Blocks
+Hybrid DL Model
      ↓
 SE Modules + Attention
      ↓
-Mortality Prediction
+Outcomes Prediction
 ```
 
 ---
