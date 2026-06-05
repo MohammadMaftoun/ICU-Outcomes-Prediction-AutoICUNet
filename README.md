@@ -17,7 +17,7 @@ Hybrid AI Framework for ICU Outcomes Prediction.
 
 ✅ SMOTE + CTGAN + Undersampling for imbalance handling
 
-✅ Autoencoder-based feature compression
+✅ Autoencoder-based feature extraction
 
 ✅ Grid Search + Random Search + Bayesian Optimization
 
