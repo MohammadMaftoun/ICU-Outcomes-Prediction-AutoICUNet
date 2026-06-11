@@ -74,8 +74,8 @@ Outcomes Prediction
 ```bash
 AutoICU-Net/
 ├── preprocessing/
-├── models/
-├── training/
+├── model.py
+├── autoencoder.py
 ├── evaluation/
 └── README.md
 ```
